@@ -1,0 +1,29 @@
+{
+  "name": "react-native-twitter-api",
+  "version": "0.0.1",
+  "description": "Access the Twitter API and Native Android and IOS functionality with React Native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/garrettmac/react-native-twitter-api.git"
+  },
+  "keywords": [
+    "twitter",
+    "react",
+    "react-native",
+    "twitter-api",
+    "android",
+    "ios",
+    "react-component",
+    "react-native-component"
+  ],
+  "author": "garrettmac <garrett@vyga.io> (http://vyga.io)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/garrettmac/react-native-twitter-api/issues"
+  },
+  "homepage": "https://github.com/garrettmac/react-native-twitter-api#readme"
+}
